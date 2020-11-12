@@ -136,8 +136,5 @@ int main()
     }
     cout << endl;
 
-    cout << "Thanks for playing BlackJack C++! Come again next time!" << endl;
-
-
-    
+    cout << "Thanks for playing BlackJack C++! Come again next time!" << endl;   
 }
